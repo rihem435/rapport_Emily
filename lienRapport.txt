@@ -19,12 +19,19 @@
 [17] [En ligne].Available:https://fr.wikipedia.org/wiki/XAMPP
 [18] [En ligne].Available:https://fr.wikipedia.org/wiki/Anaconda_(distribution_Python)
 [19] [En ligne].Available:https://en.wikipedia.org/wiki/AnyDesk
-[20] [En ligne].Available:https://fr.wikipedia.org/wiki/Githttps
+[20] [En ligne].Available:https://blog.myagilepartner.fr/index.php/2018/04/10/la-sprint-review-nest-pas-une-demo/
 [21] [En ligne].Available://www.journaldunet.fr/web-tech/guide-de-l-entreprise-digitale/1443836-sprint-definition-planning-review-retrospective-backlog/
 [22] [En ligne].Available:https://www.futura-sciences.com/tech/definitions/internet-chatbot-15778/
 [23] [En ligne].Available:https://www.frenchweb.fr/wp-content/uploads/2017/01/Livre-Blanc-Bots-VD.pdf
-[24] [En ligne].Available:https://www.frenchweb.fr/wp-content/uploads/2017/01/Livre-Blanc-Bots-VD.pdf
-[25] [En ligne].Available:https://dzone.com/articles/understanding-architecture-models-of-chatbot-and-r
-[26] [En ligne].Available:https://blog.cloudboost.io/generative-vs-retrieval-based-chatbots-a-quick-guide-8d19edb1d645
+
+[24] [En ligne].Available:https://dzone.com/articles/understanding-architecture-models-of-chatbot-and-r
+[25] [En ligne].Available:https://blog.cloudboost.io/generative-vs-retrieval-based-chatbots-a-quick-guide-8d19edb1d645
+[26] [En ligne].Available:https://www.lebigdata.fr/traitement-naturel-du-langage-nlp-definition
 [27] [En ligne].Available:https://www.futura-sciences.com/tech/definitions/informatique-intelligence-artificielle-555/
-[28] [En ligne].Available:https://www.futura-sciences.com/tech/definitions/informatique-intelligence-artificielle-555/
+[28] [En ligne].Available:https://analyticsinsights.io/apprentissage-supervise-vs-non-supervise/
+[28] [En ligne].Available:https://sux13.github.io/DataScienceSpCourseNotes/1_DATASCITOOLBOX/Data_Scientists_Toolbox_Course_Notes.pdf
+[30] [En ligne].Available:https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
+[31] [En ligne].Available:https://medium.com/analytics-vidhya/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90
+[32] [En ligne].Available:https://medium.com/analytics-vidhya/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90
+[25] [En ligne].Available:
+[25] [En ligne].Available:
