@@ -1,5 +1,5 @@
 [1] [En ligne].Available:https://blog.trello.com/fr/methode-agile-scrum-gestion-projet
-[2] [En ligne].Available:https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-FR.pdf
+[2] [En ligne].Available:https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter
 [3] [En ligne].Available:https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-FR.pdf
 [1] [En ligne].Available:
 [1] [En ligne].Available:
